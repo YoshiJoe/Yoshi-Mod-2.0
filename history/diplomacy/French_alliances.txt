@@ -72,7 +72,7 @@ union = {
 	end_date = 1461.1.1
 }
 
-# Provence and Lorraine under René of Anjou
+# Provence and Lorraine under RenÃ© of Anjou
 union = {
 	first = PRO
 	second = LOR
@@ -341,14 +341,6 @@ alliance = {
 	second = LOR
 	start_date = 1474.4.18
 	end_date = 1477.1.6
-}
-
-# Auld Alliance
-guarantee = {
-	first = FRA
-	second = SCO
-	start_date = 1444.1.1
-	end_date = 1560.1.1
 }
 
 # France and Venice (Treaty of Bles)
