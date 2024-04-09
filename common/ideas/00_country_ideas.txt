@@ -1646,7 +1646,7 @@ POL_ideas = {
 		infantry_power = 0.1
 	}
 	winged_hussars = {
-		cavalry_power = 0.3
+		cavalry_power = 0.2
 		can_recruit_hussars = yes
 	}
 	wojsko_komputoe = {
