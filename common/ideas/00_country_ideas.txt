@@ -1730,7 +1730,7 @@ LIT2_ideas = {
 		production_efficiency = 0.1
 	}
 	lithuanian_hussars = {
-		cavalry_power = 0.25
+		cavalry_power = 0.2
 		can_recruit_hussars = yes
 	}
 	statutes_of_lithuania = {
@@ -1768,7 +1768,7 @@ PLC_ideas = {
 		army_tradition = 1
 	}
 	winged_hussars = { 
-		cavalry_power = 0.3
+		cavalry_power = 0.2
 		can_recruit_hussars = yes
 	}
 	plc_refine_our_golden_liberty = { #Same for all of them
@@ -1813,7 +1813,7 @@ PLC_LIT_ideas = {
 		diplomatic_annexation_cost = -0.15
 	}
 	lithuanian_hussars = {
-		cavalry_power = 0.25
+		cavalry_power = 0.2
 		can_recruit_hussars = yes 
 	}
 	statutes_of_lithuania = {
