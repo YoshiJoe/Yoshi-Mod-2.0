@@ -16060,7 +16060,7 @@ FKN_ideas = {
 	}
 	
 	bonus = {
-		discipline = 0.05
+		land_morale = 0.10
 	}
 	
 	trigger = {
@@ -16076,13 +16076,13 @@ FKN_ideas = {
 		horde_unity = 1
 	}
 	fkn_main_trading = {
-		trade_efficiency = 0.1
+		trade_efficiency = 0.15
 	}
 	fkn_rugged_land_of_fortresses = {
-		defensiveness = 0.2
+		shock_damage = 0.15
 	}
 	fkn_free_knights_of_franconia = {
-		cavalry_power = 0.10
+		cavalry_power = 0.15
 	}
 	franconian_wine = { #in WBG_ideas
 		#production_efficiency = 0.1
@@ -16092,7 +16092,7 @@ FKN_ideas = {
 	}
 	fkn_franconian_bourgeoisie = {
 		development_cost = -0.05
-		advisor_cost = -0.1
+		advisor_cost = -0.15
 	}
 }
 
@@ -16190,17 +16190,17 @@ WES_ideas = {
 	}
 	wes_westphalian_decentralisation  = {
 		state_maintenance_modifier = -0.1
-		development_cost = -0.05
+		development_cost = -0.10
 	}
 	wes_increased_conscription = {
 		global_manpower_modifier = 0.20
 	}
 	wes_administrative_assimilation_of_rheinlanders = {
-		num_accepted_cultures = 1
-		same_culture_advisor_cost = -0.25
+		infantry_power = 0.20
+		
 	}
 	wes_taxation = {
-		global_tax_modifier = 0.1
+		global_tax_modifier = 0.15
 	}
 	wes_enlightenment = {
 		tolerance_heretic = 1
