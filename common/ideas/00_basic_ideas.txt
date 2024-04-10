@@ -19,8 +19,6 @@ aristocracy_ideas = {
 		maratha_loyalty_modifier = 0.1
 	}
 
-	trigger = {
-		has_government_attribute = enables_aristocratic_idea_group
 	}
 	
 	noble_knights = {
@@ -94,10 +92,7 @@ plutocracy_ideas = {
 		global_prov_trade_power_modifier = 0.25
 		burghers_loyalty_modifier = 0.1
 		vaisyas_loyalty_modifier = 0.1
-	}
-
-	trigger = {
-		has_government_attribute = enables_plutocratic_idea_group
+	
 	}
 
 	tradition_of_payment = {
