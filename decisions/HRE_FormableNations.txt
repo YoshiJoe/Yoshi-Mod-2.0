@@ -401,7 +401,10 @@ country_decisions = {
 					ai = no
 				}
 			}
+			OR = {
 			primary_culture = franconian
+			primary_culture = hessian
+			}
 		}
 		provinces_to_highlight = {
 			OR = {
