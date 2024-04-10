@@ -196,10 +196,6 @@ theocracy_gov_ideas = {
 		brahmins_hindu_loyalty_modifier = 0.1
 		brahmins_muslim_loyalty_modifier = 0.1
 	}
-	
-	trigger = {
-		has_government_attribute = enables_divine_idea_group
-	}
 	servants_of_god = {
 		devotion = 1
 		legitimacy = 0.5
