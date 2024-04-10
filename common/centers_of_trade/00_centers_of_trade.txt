@@ -47,7 +47,7 @@ global_port = {
         local_institution_spread = 0.4
     }
     state_modifiers = {
-        local_development_cost = -0.125
+        local_development_cost = -0.15
         local_manpower_modifier = 0.50
         allowed_num_of_buildings = 1
     }
@@ -100,7 +100,7 @@ global_trade_center = {
         local_institution_spread = 0.4
     }
     state_modifiers = {
-        local_development_cost = -0.125
+        local_development_cost = -0.15
         local_manpower_modifier = 0.50
         allowed_num_of_buildings = 1
     }
