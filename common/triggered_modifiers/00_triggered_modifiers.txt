@@ -25,7 +25,7 @@ east_indian_trade_route = {
 	trigger = {
 		has_discovered = 1460 # Cape of Good Hope
 		num_of_ports = 4
-		has_idea = quest_for_the_new_world
+		#has_idea = quest_for_the_new_world
 		OR = {
 			1361 = { has_merchant = ROOT } #Straits of Johor
 			1343 = { has_merchant = ROOT } #Ganges Delta
@@ -34,7 +34,7 @@ east_indian_trade_route = {
 		}
 	}
 
-	trade_efficiency = 0.05	
+	merchants = 1
 }
 
 #########################################################
@@ -622,10 +622,11 @@ lost_control_of_beijing = {
 	}
 
 	trigger = {
-		OR = {
-			NOT = { owns = 1816 }
-			NOT = { controls = 1816 }
-		}
+		NOT = {
+			1816 = {
+				country_or_subject_holds = ROOT
+			}
+		}	
 	}
 
 	ai_weight = {
@@ -642,10 +643,11 @@ lost_control_of_nanjing = {
 	}
 
 	trigger = {
-		OR = {
-			NOT = { owns = 1821 }
-			NOT = { controls = 1821 }
-		}
+		NOT = {
+			1821 = {
+				country_or_subject_holds = ROOT
+			}
+		}	
 	}
 
 	ai_weight = {
@@ -662,10 +664,11 @@ lost_control_of_canton = {
 	}
 
 	trigger = {
-		OR = {
-			NOT = { owns = 667 }
-			NOT = { controls = 667 }
-		}
+		NOT = {
+			667 = {
+				country_or_subject_holds = ROOT
+			}
+		}	
 	}
 
 	ai_weight = {
@@ -787,17 +790,16 @@ synthetic_remnants = {
 golden_age_of_piracy = {
 	potential = {
 		has_global_flag = golden_age_of_piracy
-		NOT = { # lasts 50 years
-			had_global_flag = { flag = golden_age_of_piracy days = 18250 }
-		}
 		1516 = { has_discovered = ROOT }
 	}
 	trigger = {
 		1516 = {
-			privateer_power = { country = ROOT share = 1 }
+			has_merchant = ROOT
 		}
-	}
-	privateer_efficiency = 0.2
+		num_ships_privateering = 10
+	}	
+	merchants = 1
+	privateer_efficiency = 0.25
 }
 
 ######################################
@@ -841,6 +843,7 @@ great_peasants_war_concessions_triggered_modifier = {
 
 pope_in_hre_triggered_modifier = {
 	potential = {
+		always = no
 		PAP = { is_part_of_hre = yes }
 		religion = catholic
 	}
@@ -886,7 +889,7 @@ italian_wars_triggered_modifier = {
 		}
 	}
 	mercenary_cost = -0.10
-	mercenary_discipline = 0.05
+	mercenary_discipline = 0.03
 }
 
 ######################################
@@ -952,6 +955,7 @@ ahmudan_system_attacker = {
 	}
 
 	trigger = {
+		NOT = { has_country_modifier = ahmudan_system_defender }
 		is_at_war = yes
 	}
 	global_regiment_cost = -0.1
@@ -964,11 +968,12 @@ ahmudan_system_defender = {
 	}
 
 	trigger = {
+		NOT = { has_country_modifier = ahmudan_system_attacker }
 		is_in_war = {
 			defenders = ROOT
 		}
 	}
-	land_morale = 0.075
+	land_morale = 0.05
 	defensiveness = 0.15
 	manpower_recovery_speed = 0.1
 }
