@@ -1,0 +1,24 @@
+country_decisions = {
+
+	free_colonist = {
+		major = yes
+		potential = {
+
+				NOT = { has_country_modifier = free_colonist}	
+				###X###
+				ai = no
+				dip_tech = 6
+				#######
+			}
+
+		allow = {
+			dip_tech = 6
+		}
+		effect = {
+			add_country_modifier = {
+				name = "free_colonist"
+				duration = -1
+			}
+		}
+	}
+}
