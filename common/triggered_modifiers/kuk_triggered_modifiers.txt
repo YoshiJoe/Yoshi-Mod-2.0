@@ -1,0 +1,20 @@
+hre_minor_ae = {
+	potential = {
+			NOT  = { is_year = 1500}
+            is_part_of_hre = yes
+            NOT = {is_great_power = yes}
+			NOT = {total_development = 399}
+			ai = no
+	}
+	
+
+	trigger = {
+		
+		NOT = {total_development = 399}
+		ai = no
+		is_part_of_hre = yes
+		NOT = {is_great_power = yes}	
+		NOT = { is_emperor = yes }
+	}
+	ae_impact = -0.2
+}
