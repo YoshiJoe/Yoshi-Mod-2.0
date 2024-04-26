@@ -124,4 +124,68 @@ From;To;Type;Through;start_x;start_y;stop_x;stop_y;Comment
 321;2302;sea;1317;3319;1237;3321;1252;Cyprus-icel
 163;145;sea;1319;3176;1243;3165;1258;Crete-morea
 235;87;sea;1271;2825;1541;2832;1536;kent-calais
+1815;574;sea;1345;-1;-1;-1;-1;pathein-the andamans
+1248;4410;sea;1340;-1;-1;-1;-1;maldives-kumari
+2678;2679;sea;1360;-1;-1;-1;-1;bangka-belitung
+2679;2706;sea;1360;-1;-1;-1;-1;belitung-katapang
+617;574;sea;1348;-1;-1;-1;-1;kutaraja-the andamans
+2684;2685;sea;1350;-1;-1;-1;-1;nias-gayo
+2684;2683;sea;1351;-1;-1;-1;-1;nias-mentawai
+2683;2680;sea;1351;-1;-1;-1;-1;mentawai-muko muko
+623;624;sea;1360;-1;-1;-1;-1;tulangbewang-banten
+4790;1998;sea;1353;-1;-1;-1;-1;pangguyanan-christmas island
+637;655;sea;1368;-1;-1;-1;-1;apiapi-palawan
+2703;651;sea;1398;-1;-1;-1;-1;lehad datu-sulu
+651;4354;sea;1398;-1;-1;-1;-1;sulu-zamboanga
+4799;2714;sea;1359;-1;-1;-1;-1;sangkulirang-palu
+634;633;sea;1355;-1;-1;-1;-1;sumba-flores
+641;633;sea;1357;-1;-1;-1;-1;makassar-flores
+643;2717;sea;1399;-1;-1;-1;-1;poso-sula
+645;2717;sea;1399;-1;-1;-1;-1;buru-sula
+645;647;sea;1400;-1;-1;-1;-1;buru-ceram
+645;650;sea;1400;-1;-1;-1;-1;buru-tidore
+647;1245;sea;1400;-1;-1;-1;-1;ceram-manokwari
+2695;2696;sea;1401;-1;-1;-1;-1;east timore-yamdena
+2696;2725;sea;1409;-1;-1;-1;-1;yamdena-aru
+2725;2724;sea;1409;-1;-1;-1;-1;aru-asmat
+2720;1236;sea;1405;-1;-1;-1;-1;lae-rabaul
+1236;1238;sea;1405;-1;-1;-1;-1;lae-solomon islands
+2722;2730;sea;1410;-1;-1;-1;-1;daru-awgnthim
+1238;1239;sea;1432;-1;-1;-1;-1;solomon islands-vanuatu
+1239;1986;sea;1429;-1;-1;-1;-1;vanuatu-new caledonia
+2741;4228;sea;1389;-1;-1;-1;-1;jeju-naju
+4227;4651;sea;1376;-1;-1;-1;-1;jinju-so
+4651;1818;sea;1376;-1;-1;-1;-1;so-chikuzen
+1012;1015;sea;1392;-1;-1;-1;-1;satsuma-okinawa
+669;2154;sea;1372;-1;-1;-1;-1;fuzhou-tamsui
+1164;1097;sea;1465;-1;-1;-1;-1;cameroon-fernando po
+1097;1306;sea;1465;-1;-1;-1;-1;fernando po-sao tome
+4049;4020;sea;1449;-1;-1;-1;-1;ibo-comoros
+4020;4022;sea;1449;-1;-1;-1;-1;comoros-lboina
+4025;1103;sea;1454;-1;-1;-1;-1;vatomandry-ile bourbon
+1103;1102;sea;1455;-1;-1;-1;-1;ile bourbon-mauritius
+366;347;sea;1471;-1;-1;-1;-1;gran canaria-ifni
+4565;368;sea;1471;-1;-1;-1;-1;tenerife-madeira
+368;367;sea;1566;-1;-1;-1;-1;madeira-azores
+482;483;sea;1524;-1;-1;-1;-1;bahamas-turks islands
+482;485;sea;1525;-1;-1;-1;-1;bahamas-moron
+2654;489;sea;1516;-1;-1;-1;-1;baracoa-tortuga
+489;483;sea;1524;-1;-1;-1;-1;turk islands-tortuga
+487;2655;sea;1518;-1;-1;-1;-1;jamaica-bayamo
+4621;492;sea;1526;-1;-1;-1;-1;higuey-boriken
+492;493;sea;1526;-1;-1;-1;-1;boriken-st thomas
+493;1881;sea;1526;-1;-1;-1;-1;st thomas-st martin
+1881;494;sea;1523;-1;-1;-1;-1;st martin-st kitts
+496;497;sea;1523;-1;-1;-1;-1;guadelupe-dominica
+500;501;sea;1522;-1;-1;-1;-1;st vincent-barbados
+500;502;sea;1522;-1;-1;-1;-1;st vincent-trinidad
+2808;491;sea;1519;-1;-1;-1;-1;aruba-coro
+1239;1242;sea;1431;-1;-1;-1;-1;vanuatu-viti levu
+1242;1106;sea;1431;-1;-1;-1;-1;viti levu-te tai tokerau
+2536;4622;sea;1505;-1;-1;-1;-1;mayaimi-canimar
+2652;4624;sea;1512;-1;-1;-1;-1;ecab-guane
+979;2611;sea;1680;-1;-1;-1;-1;unangan-kodiak
 -1;-1;;-1;-1;-1;-1;-1;-1
+;;;;;;;;
+;;;;;;;;
+;;;;;;;;
