@@ -29,6 +29,7 @@ war_chest = {
 
 	trigger = {
 		is_at_war = yes
+		NOT = { num_of_allies = 1}
 		land_maintenance = 1
 		army_size_percentage = 0.8
 	}
@@ -270,4 +271,21 @@ italian_signoria = {
 	land_maintenance_modifier = -0.05
 	fort_maintenance_modifier = -0.5
 	galley_power = 0.1
+}
+
+imperial_ambition = {
+	potential = {
+		ROOT = {
+			ai = no
+		}
+	}
+
+	trigger = {
+		NOT = { num_of_allies = 1}
+		is_at_war = no
+	}
+	global_tax_modifier = 0.1
+	global_trade_goods_size_modifier = 0.1
+	land_maintenance_modifier = -0.1
+	development_cost = -0.05	
 }
