@@ -1124,7 +1124,10 @@ cape_of_good_hope={
 	}
 }
 basra={
-	location=1335
+	location=408
+	color={
+		37 150 190 
+	}		
 	outgoing={
 		name="alexandria"
 		path={
