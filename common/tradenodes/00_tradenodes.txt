@@ -1590,6 +1590,9 @@ pest={
 }
 krakow={
 	location=262
+	color={
+		197 92 106
+	}
 	inland=yes
 	outgoing={
 		name="wien"
