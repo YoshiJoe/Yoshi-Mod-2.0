@@ -15175,7 +15175,7 @@ SYN_ideas = {
 MOR_ideas = {
 		start = {
 		naval_forcelimit_modifier = 0.25
-		cavalry_power = 0.1
+		cavalry_power = 0.15
 	}
 	bonus = {
 		shock_damage = 0.1
