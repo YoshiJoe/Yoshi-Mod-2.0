@@ -5,6 +5,7 @@ country_decisions = {
 				tag = TUR
 				tag = RUM
 			}
+			NOT = { exists = BYZ }
 			owns = 151
 			NOT = { capital = 151 }
 			NOT = { has_country_flag = relocated_capital_constantinople }
@@ -13,7 +14,7 @@ country_decisions = {
 				ai = no
 				is_playing_custom_nation = no
 			}
-		}
+		}	
 		allow = {
 			is_at_war = no
 			primary_culture = turkish
@@ -32,11 +33,8 @@ country_decisions = {
 			set_global_flag = greek_need_restore_constantinople
 			add_stability = 1
 			add_core = 151
-			151 = {
-				move_capital_effect = yes
-				change_culture = turkish 
-				change_religion = ROOT
-				rename_capital = Kostantiniyye
+			hidden_effect = {
+				country_event = { id = ByzOrTur.1 days = 0 }
 			}
 			if = {
 				limit = {
