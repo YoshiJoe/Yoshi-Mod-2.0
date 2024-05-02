@@ -300,7 +300,7 @@ empowered_subjects = {
 	trigger = {
 		overlord = {
 				has_idea_group = influence_ideas
-				has_idea = tribute_system
+				has_idea = marcher_lords
 				was_player = yes 
 			}
 		NOT = { is_colonial_nation = yes }	
