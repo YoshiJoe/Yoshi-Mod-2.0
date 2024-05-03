@@ -13,6 +13,7 @@ country_event = {
         151 = {
             move_capital_effect = yes
         }
+		add_government_reform = byzantine_autocracy_reform
 	}
 
 	option = {
