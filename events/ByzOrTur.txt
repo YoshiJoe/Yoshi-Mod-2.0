@@ -12,7 +12,6 @@ country_event = {
         change_primary_culture = greek
         151 = {
             move_capital_effect = yes
-            change_religion = ROOT
         }
 	}
 
