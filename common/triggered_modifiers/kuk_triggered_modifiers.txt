@@ -62,7 +62,6 @@ italian_signoria = {
 								culture_group = germanic
 								culture_group = french
 								culture_group = iberian
-								culture_group = carpathian
 								culture_group = maghrebi
 								culture_group = turko_semitic 
 								}
@@ -76,7 +75,6 @@ italian_signoria = {
 								culture_group = germanic
 								culture_group = french
 								culture_group = iberian
-								culture_group = carpathian
 								culture_group = maghrebi
 								culture_group = turko_semitic 
 								}
@@ -90,7 +88,6 @@ italian_signoria = {
 								culture_group = germanic
 								culture_group = french
 								culture_group = iberian
-								culture_group = carpathian
 								culture_group = maghrebi
 								culture_group = turko_semitic 
 								}
@@ -104,7 +101,6 @@ italian_signoria = {
 								culture_group = germanic
 								culture_group = french
 								culture_group = iberian
-								culture_group = carpathian
 								culture_group = maghrebi
 								culture_group = turko_semitic 
 								}
@@ -118,7 +114,6 @@ italian_signoria = {
 								culture_group = germanic
 								culture_group = french
 								culture_group = iberian
-								culture_group = carpathian
 								culture_group = maghrebi
 								culture_group = turko_semitic 
 								}
@@ -132,7 +127,6 @@ italian_signoria = {
 								culture_group = germanic
 								culture_group = french
 								culture_group = iberian
-								culture_group = carpathian
 								culture_group = maghrebi
 								culture_group = turko_semitic 
 								}
@@ -146,7 +140,6 @@ italian_signoria = {
 								culture_group = germanic
 								culture_group = french
 								culture_group = iberian
-								culture_group = carpathian
 								culture_group = maghrebi
 								culture_group = turko_semitic 
 								}
@@ -160,7 +153,6 @@ italian_signoria = {
 								culture_group = germanic
 								culture_group = french
 								culture_group = iberian
-								culture_group = carpathian
 								culture_group = maghrebi
 								culture_group = turko_semitic 
 								}
@@ -174,7 +166,6 @@ italian_signoria = {
 								culture_group = germanic
 								culture_group = french
 								culture_group = iberian
-								culture_group = carpathian
 								culture_group = maghrebi
 								culture_group = turko_semitic 
 								}
@@ -188,7 +179,6 @@ italian_signoria = {
 								culture_group = germanic
 								culture_group = french
 								culture_group = iberian
-								culture_group = carpathian
 								culture_group = maghrebi
 								culture_group = turko_semitic 
 								}
@@ -202,7 +192,6 @@ italian_signoria = {
 								culture_group = germanic
 								culture_group = french
 								culture_group = iberian
-								culture_group = carpathian
 								culture_group = maghrebi
 								culture_group = turko_semitic 
 								}
@@ -216,7 +205,6 @@ italian_signoria = {
 								culture_group = germanic
 								culture_group = french
 								culture_group = iberian
-								culture_group = carpathian
 								culture_group = maghrebi
 								culture_group = turko_semitic 
 								}
@@ -230,7 +218,6 @@ italian_signoria = {
 								culture_group = germanic
 								culture_group = french
 								culture_group = iberian
-								culture_group = carpathian
 								culture_group = maghrebi
 								culture_group = turko_semitic 
 								}
@@ -244,7 +231,6 @@ italian_signoria = {
 								culture_group = germanic
 								culture_group = french
 								culture_group = iberian
-								culture_group = carpathian
 								culture_group = maghrebi
 								culture_group = turko_semitic 
 								}
@@ -258,7 +244,6 @@ italian_signoria = {
 								culture_group = germanic
 								culture_group = french
 								culture_group = iberian
-								culture_group = carpathian
 								culture_group = maghrebi
 								culture_group = turko_semitic 
 								}

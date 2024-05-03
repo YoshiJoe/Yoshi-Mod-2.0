@@ -29,9 +29,6 @@ difficulty_very_easy_player = {
 	improve_relation_modifier = 0.10
 	ae_impact = -0.33
 	yearly_corruption = -1.0
-	country_admin_power = 1	
-	country_diplomatic_power = 1	
-	country_military_power = 1	
 }
 
 difficulty_easy_player = {
@@ -40,28 +37,16 @@ difficulty_easy_player = {
 	interest = -2
 	ae_impact = -0.33
 	yearly_corruption = -1.0
-	country_admin_power = 1	
-	country_diplomatic_power = 1	
-	country_military_power = 1	
 }
 
 difficulty_normal_player = {
-	manpower_recovery_speed = 0.25
-	country_admin_power = 1	
-	country_diplomatic_power = 1	
-	country_military_power = 1	
+	manpower_recovery_speed = 0.25	
 }
 
 difficulty_hard_player = {
-	country_admin_power = 1	
-	country_diplomatic_power = 1	
-	country_military_power = 1	
 }
 
-difficulty_very_hard_player = {
-	country_admin_power = 1	
-	country_diplomatic_power = 1	
-	country_military_power = 1	
+difficulty_very_hard_player = {	
 }
 
 ##########################################################################
