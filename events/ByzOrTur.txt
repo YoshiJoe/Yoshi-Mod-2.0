@@ -10,6 +10,7 @@ country_event = {
         change_tag = BYZ
 		swap_non_generic_missions = yes
         change_primary_culture = greek
+	change_religion = orthodox
         151 = {
             move_capital_effect = yes
         }
