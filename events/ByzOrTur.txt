@@ -10,6 +10,9 @@ country_event = {
         change_tag = BYZ
 		swap_non_generic_missions = yes
         change_primary_culture = greek
+		hidden_effect = {
+			country_event = { id = ideagroups.1 days = 0 }
+		}
 	change_religion = orthodox
         151 = {
             move_capital_effect = yes
