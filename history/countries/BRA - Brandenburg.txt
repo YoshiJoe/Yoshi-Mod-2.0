@@ -71,7 +71,7 @@ change_estate_land_share = {
 		claim = 95
 		adm = 3
 		dip = 3
-		mil = 2
+		mil = 3
 	}
 }
 
