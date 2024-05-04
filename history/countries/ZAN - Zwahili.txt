@@ -14,7 +14,7 @@ religious_school = shafii_school
 		name = "Ismâ'îl"
 		dynasty = "al-Mawahib"
 		adm = 3
-		dip = 1
+		dip = 3
 		mil = 4
 	}
 }
