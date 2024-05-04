@@ -17337,53 +17337,44 @@ OYO_ideas = {
 }
 
 ZAN_ideas = {
-	start = {
-		naval_forcelimit_modifier = 0.25
-		global_ship_trade_power = 0.2
+	start = {  
+		land_morale = 0.1
+		infantry_cost = -0.1
 	}
-
+  
 	bonus = {
-		global_trade_power = 0.1
+		shock_damage_received = -0.1
 	}
-
+  
 	trigger = {
-		tag = ZAN
+		OR = {
+			tag = RZI
+			tag = RZW
+                        tag = ZAN
+		}
 	}
 	free = yes
-
-	zan_kilwa_latitude_staves = {
-		trade_range_modifier = 0.25
-		range = 0.2
+  
+	rzw_legacy_of_zimbabwe = {
+		build_cost = -0.1
 	}
-
-	zan_shirazis_legacy = {
-		legitimacy = 1
-		devotion = 1
-		republican_tradition = 0.3
-		meritocracy = 1
-		horde_unity = 1
+	rzw_strict_gold_regulations = {
+		inflation_reduction = 0.1
 	}
-
-	zan_the_deal_with_almuli = {
-		diplomatic_reputation = 1
-		trade_company_investment_cost = -0.1
+	rzw_empowering_the_rozwi = {
+		infantry_power = 0.1
 	}
-
-	zan_kilwa_the_melting_pot = {
-		idea_cost = -0.05
+	rzw_hierarchical_tax_organization = {
+		global_tax_modifier = 0.1
 	}
-
-	zan_gold_of_sofala = {
-		monthly_gold_inflation_modifier = -0.2
-		inflation_reduction = 0.03
+	rzw_discipline_and_traning = {
+		discipline = 0.05
 	}
-
-	zan_trade_center_of_zanzibar = {
-		merchants = 1
+	rzw_mwari_cult = {
+		global_unrest = -1
 	}
-
-	zan_center_of_migration = {
-		development_cost = -0.1
+	rzw_vashambadzi = {
+		trade_efficiency = 0.1
 	}
 }
 
